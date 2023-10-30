@@ -1,6 +1,6 @@
 # sample_project
 
-sample project for creating reositorybnbjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkn bncvx 
+sample project is  creating for testing
 =======
 sample project for creating reository 
 
