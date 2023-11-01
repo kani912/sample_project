@@ -1,12 +1,8 @@
-# sample_project
+# pull base image
+From tomcat:8-jre8
 
-sample project is  creating for testing
-=======
-sample project for creating reository 
+# manitainer
+MAINTAINER "kannika.vps@gmail.com"
 
-git
-209f2944be0cd588f8561e5a929d2550e52c231a
-git repos
-
-lucky
-diassssssss
+#copy war file on to container
+COPY '/webapp.war/usr/local/tomcat/webapps
